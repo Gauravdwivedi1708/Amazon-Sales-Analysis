@@ -3,7 +3,7 @@
 # 📊 AMAZON SALES ANALYSIS  
 
 ## 📝 DESCRIPTION  
-The **Amazon Sales Analysis Dashboard** is a visually engaging and analytical Power BI report that helps compare sales performance across different quarters such as **QTR 1, QTR 2, QTR 3**, etc.  
+The **Amazon Sales Analysis Dashboard** is a visually engaging and analytical Power BI report that helps compare sales performance across different weeks , months quarters such as **QTR 1, QTR 2, QTR 3**, etc.  
 
 
 ## 🛒 Amazon Sales Performance Insight Report  
